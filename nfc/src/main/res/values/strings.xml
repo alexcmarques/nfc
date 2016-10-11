@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">NFC Reader</string>
+    <string name="tag_title">Tag info:</string>
+
+    <!-- Tag button -->
+    <string name="tag_button_read">Read Tag</string>
+
+    <!-- Tag results -->
+    <string name="tag_no_data">This tag has no data!</string>
+    <string name="tag_default_data">Tap tag to phone to read the tag\'s data.</string>
+
+    <!-- Action Bar -->
+    <string name="action_settings">Settings</string>
+
+</resources>
